@@ -28,7 +28,7 @@
           download="proposed_file_name"
           title="Play">Play</a>
       </span></h3>
-    <h3><span style="font-family: Roboto;">Lesson 2 - "Lesson 2 song"<a href="https://github.com/rohinkumar/MyTi/raw/master/fretbot/webapp/songs/l2_2string scale.csv"
+    <h3><span style="font-family: Roboto;">Lesson 2 - "Lesson 2 song"<a href="https://github.com/rohinkumar/MyTi/raw/master/fretbot/webapp/songs/l2_2string%20scale.csv"
           download="proposed_file_name"
           title="Play">
           Play</a></span></h3>
@@ -36,5 +36,6 @@
     <h3><span style="font-family: Roboto;">Lesson 4 - "Lesson 4 song"</span></h3>
     <h3><span style="font-family: Roboto;">Lesson 5 - "Lesson 5 song"</span></h3>
     <h3><span style="font-family: Roboto;">Lesson 6 - "Lesson 6 song"</span></h3>
+    
   </body>
 </html>
